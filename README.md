@@ -1,12 +1,6 @@
 # whatsapp-bot-seed
 A small python seed to create a Whatsapp Bot, with regex-callback routes (just like a web framework).  
 
-# :warning: Warning :warning:
-Unfortunately, after some updates in the whatsapp servers, bots are beeing banned real quickly. Some just last a couple hours.  
-Whatsapp does not have an open protocol -- the core implementation behind this seed -- relies on reverse engineering to understand the messages exchange.
-This project had a good run, was really useful and bots prior to the server update could run for months without any trouble. Right now is very unstable and unreliable due the ban problem.  
-If a new library/protocol update solves this issue, the work will return. Until then, sadly, the project will be on hold.
-
 # What it does?
 - Basic message handling:  
 ![Example](http://i.imgur.com/TbirVKg.jpg?1)  
